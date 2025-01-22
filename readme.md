@@ -1,6 +1,6 @@
 ![Screenshot of the application](./images/screen.png)
 
-# Projeto Dado Easy
+# Projeto Dado Hard
 
 Este é um projeto de exemplo da disciplina de Programação Orientada a Objetos (POO) do SENAC. Neste projeto, são tratados os conceitos de classe, objeto, atributos, métodos e encapsulamento.
 

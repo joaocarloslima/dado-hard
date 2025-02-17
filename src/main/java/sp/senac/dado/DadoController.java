@@ -19,8 +19,8 @@ public class DadoController {
 
     @GetMapping("/")
     public String home(Model model) {
-       
-        model.addAttribute("dados", dados);
+        // model.addAttribute("jogador", jogador);
+        // model.addAttribute("dados", dados);
         return "index";
     }
 

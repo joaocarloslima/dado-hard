@@ -30,6 +30,10 @@ O projeto é composto pelas seguintes classes principais:
      }
      ```
 
+O diagrama a seguir apresenta a classe Jogador com seus atributos e métodos.
+
+![Diagrama da classe Jogador](./images/diagrama.png)
+
 ## Como Rodar o Projeto Spring
 
 Para rodar o projeto Spring, siga os passos abaixo:

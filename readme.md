@@ -8,6 +8,12 @@ Este é um projeto de exemplo da disciplina de Programação Orientada a Objetos
 
 O objetivo deste projeto é criar um jogo simples utilizando conceitos de Programação Orientada a Objetos (POO). O jogo envolve um jogador que rola dados e ganha ou perde vidas com base nos resultados dos dados. Este projeto ajuda a entender e aplicar conceitos como classes, objetos, atributos, métodos e encapsulamento.
 
+## Regras de Negócio
+
+1. O jogador começa com 5 vidas.
+2. Ao rolar o dado, se o resultado for par, o jogador ganha uma vida. Se for ímpar, perde uma vida.
+3. O método rolar retornar o número sortado no dado
+
 ## Estrutura do Projeto
 
 O projeto é composto pelas seguintes classes principais:
